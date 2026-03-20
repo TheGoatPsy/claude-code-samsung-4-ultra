@@ -8,6 +8,7 @@
 
 ## Active Projects
 - [project_active_manuscripts.md](project_active_manuscripts.md) - Book published (Nobel). HPR Model (JBA resubmission). Neo Pygmalion (SR). ACoR Theory (Nature/Lancet). Narrative Therapy SR (completed). Dublin ECPP July 2026. ECADOC 2026 applied.
+- [project_student_pack_integrations.md](project_student_pack_integrations.md) - GitHub Student Pack: 15 tools integrated. CLIs: Doppler, Sentry, gh, doctl, Heroku. SDKs: sentry-sdk, newrelic, datadog, configcat. Hub: python/hzf_integrations.py. Verify: scripts/verify_integrations.py.
 
 ## External References
 - [reference_external_systems.md](reference_external_systems.md) - GitHub: TheGoatPsy. Instagram: @kecipsikologu. ORCID: 0000-0003-1076-3928. Trading: Pepperstone/MT5. AI: Hezarfen ecosystem. Orgs: Yeşilay, Enstitü Sosyal, Salus, PSI Ireland.
