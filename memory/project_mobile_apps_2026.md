@@ -53,3 +53,10 @@ type: project
 - MVP yaklasimi: 3-5 gun gelistirme, 1-2 gun test/deploy
 - Mono-repo veya template repo ile hizli baslangic
 - Claude Code ile otonom gelistirme (Onour yonlendirir, Claude kodu yazar)
+- **Stack kesinlesti**: React Native + Expo (Flutter degil), TypeScript strict
+- **Altyapi tamamlandi (2026-03-22)**: Claude Code tam gelistirme platformu olarak yapilandirildi
+  - 8 MCP sunucusu, 9 plugin, 10 slash command, 3 skill, 3 rule, 3 batch script
+  - Agent Teams (paralel gelistirme), Headless batch (toplu islemler), claude-projects (multi-proje yonetimi)
+  - Detaylar: project_claude_code_dev_platform.md
+- **Yeni proje baslama**: `/mobile-init uygulama-adi` komutu ile saniyeler icinde
+- **Toplu islemler**: batch scriptleri ile 50 uygulamada ayni anda SDK guncelleme, lint fix, ASO metadata

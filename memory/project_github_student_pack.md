@@ -29,13 +29,15 @@ GitHub Student Pack entegrasyonu 2026-03-20'de bu bilgisayara migrate edildi.
 ## GitHub Repo Secrets (14 adet, 2026-03-21)
 APPWRITE_API_SECRET, APPWRITE_PROJECT_ID, BLACKFIRE_ENV_ID, CODECOV_TOKEN, CODESCENE_PROJECT_ID, CONFIGCAT_SDK_KEY, DD_API_KEY, DEEPSCAN_TEAM_ID, HEROKU_API_KEY, NEW_RELIC_ACCOUNT_ID, NEW_RELIC_LICENSE_KEY, NOTION_API_KEY, PAGECLIP_API_KEY, SENTRY_AUTH_TOKEN
 
-## Secret Durumu (2026-03-21)
-- Sentry: AKTIF (auth token eklendi)
+## Secret Durumu (2026-03-22)
+- Sentry: AKTIF (auth token eklendi, MCP sunucusu da yapilandirildi)
 - Datadog: AKTIF (API key eklendi)
 - Heroku: BEKLEMEDE (ogrenci onay bekliyor)
 - MongoDB Atlas: HATA (GITHUBSTUDENT50-PX05WT kodu var, kimlik saglayici hatasi)
-- DigitalOcean: HATA (odeme yontemi reddedildi, $200 kredi alinmadi)
+- DigitalOcean: AKTIF (droplet 147.182.164.38, nyc1, SSH key olusturuldu ama yuklenmedi)
 - Doppler: CLI kuruldu, login bekliyor
+- Tavily: AKTIF (ucretsiz API key, MCP sunucusu calisiyor)
+- Figma: AKTIF (API key, MCP sunucusu calisiyor)
 
 ## Mobil Uygulama Gelistirme Araclari (Student Pack)
 LambdaTest (1 yil, mobil test), BrowserStack (1 yil, 2000+ cihaz), Azure ($100 kredi), NativeScript (acik kaynak), FrontendMasters (6 ay kurs), Flutter (acik kaynak), Codespaces Pro, Stripe ($1000 waived), Appwrite (Pro tier)
